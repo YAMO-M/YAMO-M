@@ -68,8 +68,9 @@ Practices:
   - Exception Handling
   - Unit Testing (JUnit 5)
   - Clean Code Principles
+```
 
-🎮 Coding Activity
+###🎮 Coding Activity
 <!-- GitHub Readme Chess Board --><div align="center">
 https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/chess.svg
 
@@ -80,4 +81,4 @@ https://komarev.com/ghpvc/?username=YAMO-M&color=blueviolet&style=flat-square
 
 Thanks for visiting my profile! 🚀
 
-</div> ```
+</div> 
