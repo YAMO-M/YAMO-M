@@ -68,3 +68,16 @@ Practices:
   - Exception Handling
   - Unit Testing (JUnit 5)
   - Clean Code Principles
+
+🎮 Coding Activity
+<!-- GitHub Readme Chess Board --><div align="center">
+https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/chess.svg
+
+</div>
+<div align="center">
+⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
+https://komarev.com/ghpvc/?username=YAMO-M&color=blueviolet&style=flat-square
+
+Thanks for visiting my profile! 🚀
+
+</div> ```
