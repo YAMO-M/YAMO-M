@@ -1,11 +1,13 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  Hi, I'm Yamo
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&height=50&lines=Hi,+I'm+Yamo" alt="Typing Animation" />
+  </a>
+</p>
+
 <h3 align="center">Final Year CS Student | Backend Development</h3>
 
 <div align="center">
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bayanda-mtshali-67876a2b2/)">
+  <a href="https://www.linkedin.com/in/bayanda-mtshali-67876a2b2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:bayandamtshali2006@gmail.com">
@@ -63,28 +65,6 @@ Basic Spring Boot REST API for book management, built to learn core backend fund
 - **Features:** Create, Read, Update, Delete operations for books
 - **Status:** Learning project focusing on Spring Boot basics
 <br />
-## 🎯 Skill Progression
-
-<div align="center">
-  ![Java](https://img.shields.io/badge/Java-90%25-orange?style=for-the-badge&logo=java)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-85%25-green?style=for-the-badge&logo=springboot)
-  ![Python](https://img.shields.io/badge/Python-75%25-blue?style=for-the-badge&logo=python)
-</div>
-
-<br />
-
-## 🌟 Profile Animations
-
-<div align="center">
-  
-  <!-- Snake Animation - Will work once GitHub Action runs -->
-  ![Snake animation](https://raw.githubusercontent.com/Yamo-M/Yamo-M/output/github-contribution-grid-snake.svg)
-  
-  <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
-  </p>
-  
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+Boot+Specialist;Java+Enthusiast;AI+Integration" alt="Typing Animation" />
@@ -96,7 +76,7 @@ Basic Spring Boot REST API for book management, built to learn core backend fund
   
   ### 🔗 Connect with me
   
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bayanda-mtshali-67876a2b2/)">
+  <a href="https://www.linkedin.com/in/bayanda-mtshali-67876a2b2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:bayandamtshali2006@gmail.com">
