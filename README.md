@@ -21,7 +21,6 @@
 Final Year BSc Computer Science & IT student specializing in backend development with Java and Spring Boot. Currently developing my skills in system design, REST API development and database Management, with hands on experience through academic projects and personal development.
 
 <br />
-## Tech Stack
 
 ### **Core Technologies**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
